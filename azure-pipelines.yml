@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Ubuntu-latest'
+  vmImage: 'windows-2022'
 
 steps:
 - task: NodeTool@0
